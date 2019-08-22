@@ -1,18 +1,25 @@
 #! /bin/bash
 
-code --install-extension eg2.vscode-npm-script
-code --install-extension christian-kohler.npm-intellisense
+# intellisense
+code --install-extension christian-kohler.path-intellisense
 
+# env 
 code --install-extension codezombiech.gitignore
+code --install-extension mikestead.dotenv
 
+# conventions
 code --install-extension esbenp.prettier-vscode
 
+# readability
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension oderwat.indent-rainbow
 code --install-extension CoenraadS.bracket-pair-colorizer
+
+# helper
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension formulahendry.auto-close-tag
 
+# doc
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension joaompinto.asciidoctor-vscode
 
