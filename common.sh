@@ -2,6 +2,7 @@
 
 # intellisense
 code --install-extension christian-kohler.path-intellisense
+code --install-extension christian-kohler.path-intellisense
 
 # env 
 code --install-extension codezombiech.gitignore
@@ -23,4 +24,6 @@ code --install-extension formulahendry.auto-close-tag
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension joaompinto.asciidoctor-vscode
 
-
+# yaml, xml
+code --install-extension redhat.vscode-xml
+code --install-extension redhat.vscode-yaml
