@@ -22,6 +22,7 @@ code --install-extension formulahendry.auto-close-tag
 
 # doc
 code --install-extension yzhang.markdown-all-in-one
+code --install-extension mdickin.markdown-shortcuts
 code --install-extension joaompinto.asciidoctor-vscode
 
 # yaml, xml
