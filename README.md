@@ -7,3 +7,6 @@ scopes :
 - common
 - javascript
 - elixir
+- reasonML
+- golang
+- vm
