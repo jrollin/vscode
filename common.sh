@@ -28,3 +28,6 @@ code --install-extension joaompinto.asciidoctor-vscode
 # yaml, xml
 code --install-extension redhat.vscode-xml
 code --install-extension redhat.vscode-yaml
+
+# collab 
+code --install-extension ms-vsliveshare.vsliveshare
